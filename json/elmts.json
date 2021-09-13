@@ -1,0 +1,46 @@
+{   
+    "nom": "tableau periodique des éléments",
+    "elmts": [
+        {
+    "num": 1,
+    "nom": {
+        "nomfr": "hydrogène",
+        "nomang": "hydrogen"
+    },
+    "symb": "H",
+    "mass": 1.008,
+    "isotopes": [{ 
+        "symb": "'1'.sup() + 'H'",
+        "nom": "protium"
+    },{
+        "symb": "'2'.sup() + 'H'",
+        "nom": "deuterieum"
+    },{
+        "symb": "'3'.sup() + 'H'",
+        "nom": "tritium"
+    }],
+
+    "bloc": "s",
+    "famille": "autre, non-métaux"
+    
+},
+
+{
+    "num": 1,
+    "nom": {
+        "nomfr": "Helium",
+        "nomang": "Helium"
+    },
+    "symb": "He",
+    "mass": 4.0026,
+    "isotopes": [{ 
+        "symb": "3H"
+    },{
+        "symb": "4H"
+
+    }],
+    "bloc": "s",
+    "famille": "gaz nobles"
+    
+}]
+    }
